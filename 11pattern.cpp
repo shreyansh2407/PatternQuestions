@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//function definition 
 void printPattern11(int n){
     int start=0;
         for(int i=0;i<n;i++){
