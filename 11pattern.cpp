@@ -12,6 +12,7 @@ void printPattern11(int n){
             cout<<endl;
         }
 }
+//calling the pattern function 
 int main(){
     int n=4;
     printPattern11(n);
