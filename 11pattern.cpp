@@ -11,6 +11,7 @@ void printPattern11(int n){
                 start=1-start;
             }
             cout<<endl;
+            // s
         }
 }
 //calling the pattern function 
