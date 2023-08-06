@@ -9,7 +9,8 @@ void printPattern10(int n){
             cout<<"* ";
         }
         cout<<endl;
-        //Pattern questions
+        //Pattern questions 10
+        
     }
 }
 int main(){
